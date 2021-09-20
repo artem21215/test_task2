@@ -1,9 +1,6 @@
-//
-// Created by artem on 20.09.2021.
-//
 #include "print_info.h"
 
-void print(vector<pair<double, Dot>> &dots) {
+void print(const vector<pair<double, Dot>> &dots) {
     cout.precision(1);
     cout.width(15);
     cout.setf(ios::right);

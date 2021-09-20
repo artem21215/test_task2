@@ -1,7 +1,3 @@
-//
-// Created by artem on 20.09.2021.
-//
-
 #ifndef TEST_TASK2_DOT_H
 #define TEST_TASK2_DOT_H
 
@@ -17,4 +13,4 @@ public:
 };
 
 
-#endif //TEST_TASK2_DOT_H
+#endif
